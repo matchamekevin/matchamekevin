@@ -53,7 +53,7 @@ Developpeur web avec plus de 3 ans d’expérience, spécialisé en JavaScript (
 ## 📬 Connectons-nous
 
 * 💼 **LinkedIn** : [Gnati Kévin Matchame](https://www.linkedin.com/in/gnati-kevin-matchame)
-* ✉️ **Email** : [matchamegnatikevin894@gmail.com](mailto:matchamegnatikevin894@gmail.com)
+* ✉️ **Email** : [gnatimatchame@gmail.com](mailto:gnatimatchame@gmail.com)
 * 📍 **Localisation** : Lomé, Togo
 
 > "Je transforme les défis techniques en solutions innovantes pour créer des expériences web exceptionnelles."
